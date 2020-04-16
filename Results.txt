@@ -1,0 +1,285 @@
+czasy dla sortowania 100 tablic o rozmiarze: 10000
+posortowanie w 0%
+to jest wynik dla quicksort:
+122.116
+to jest wynik dla mergesort:
+575.468
+to jest wynik dla introsort:
+102.565
+posortowanie w 25%
+to jest wynik dla quicksort:
+106.306
+to jest wynik dla mergesort:
+256.842
+to jest wynik dla introsort:
+79.7862
+posortowanie w 50%
+to jest wynik dla quicksort:
+119.409
+to jest wynik dla mergesort:
+269.403
+to jest wynik dla introsort:
+110.704
+posortowanie w 75%
+to jest wynik dla quicksort:
+85.0593
+to jest wynik dla mergesort:
+231.134
+to jest wynik dla introsort:
+58.8777
+posortowanie w 95%
+to jest wynik dla quicksort:
+66.8266
+to jest wynik dla mergesort:
+243.323
+to jest wynik dla introsort:
+47.8912
+posortowanie w 99%
+to jest wynik dla quicksort:
+61.8078
+to jest wynik dla mergesort:
+217.916
+to jest wynik dla introsort:
+41.8941
+posortowanie w 99.7%
+to jest wynik dla quicksort:
+43.7327
+to jest wynik dla mergesort:
+239.874
+to jest wynik dla introsort:
+39.8934
+posortowanie w 100%
+to jest wynik dla quicksort:
+61.8341
+to jest wynik dla mergesort:
+231.196
+to jest wynik dla introsort:
+32.4056
+czasy dla sortowania 100 tablic o rozmiarze: 50000
+posortowanie w 0%
+to jest wynik dla quicksort:
+543.426
+to jest wynik dla mergesort:
+1483.4
+to jest wynik dla introsort:
+504.477
+posortowanie w 25%
+to jest wynik dla quicksort:
+519.121
+to jest wynik dla mergesort:
+1335.28
+to jest wynik dla introsort:
+420.417
+posortowanie w 50%
+to jest wynik dla quicksort:
+539.975
+to jest wynik dla mergesort:
+1283.81
+to jest wynik dla introsort:
+441.334
+posortowanie w 75%
+to jest wynik dla quicksort:
+433.85
+to jest wynik dla mergesort:
+1245.74
+to jest wynik dla introsort:
+331.958
+posortowanie w 95%
+to jest wynik dla quicksort:
+364.363
+to jest wynik dla mergesort:
+1197.94
+to jest wynik dla introsort:
+262.298
+posortowanie w 99%
+to jest wynik dla quicksort:
+337.327
+to jest wynik dla mergesort:
+1178.34
+to jest wynik dla introsort:
+243.822
+posortowanie w 99.7%
+to jest wynik dla quicksort:
+327.125
+to jest wynik dla mergesort:
+1199.29
+to jest wynik dla introsort:
+246.764
+posortowanie w 100%
+to jest wynik dla quicksort:
+335.007
+to jest wynik dla mergesort:
+1190.72
+to jest wynik dla introsort:
+245.076
+czasy dla sortowania 100 tablic o rozmiarze: 100000
+posortowanie w 0%
+to jest wynik dla quicksort:
+1138.87
+to jest wynik dla mergesort:
+3032.97
+to jest wynik dla introsort:
+970.282
+posortowanie w 25%
+to jest wynik dla quicksort:
+1150.92
+to jest wynik dla mergesort:
+2916.29
+to jest wynik dla introsort:
+909.56
+posortowanie w 50%
+to jest wynik dla quicksort:
+1032.02
+to jest wynik dla mergesort:
+2815.51
+to jest wynik dla introsort:
+916.933
+posortowanie w 75%
+to jest wynik dla quicksort:
+974.972
+to jest wynik dla mergesort:
+2714.74
+to jest wynik dla introsort:
+761.467
+posortowanie w 95%
+to jest wynik dla quicksort:
+768.773
+to jest wynik dla mergesort:
+2541.56
+to jest wynik dla introsort:
+602.36
+posortowanie w 99%
+to jest wynik dla quicksort:
+746.538
+to jest wynik dla mergesort:
+2640.95
+to jest wynik dla introsort:
+559.803
+posortowanie w 99.7%
+to jest wynik dla quicksort:
+726.432
+to jest wynik dla mergesort:
+2609.56
+to jest wynik dla introsort:
+513.66
+posortowanie w 100%
+to jest wynik dla quicksort:
+746.618
+to jest wynik dla mergesort:
+2647.91
+to jest wynik dla introsort:
+518.339
+czasy dla sortowania 100 tablic o rozmiarze: 500000
+posortowanie w 0%
+to jest wynik dla quicksort:
+6712.61
+to jest wynik dla mergesort:
+15736.3
+to jest wynik dla introsort:
+5211.66
+posortowanie w 25%
+to jest wynik dla quicksort:
+5924.33
+to jest wynik dla mergesort:
+15306.2
+to jest wynik dla introsort:
+5222.51
+posortowanie w 50%
+to jest wynik dla quicksort:
+5810.38
+to jest wynik dla mergesort:
+14702.4
+to jest wynik dla introsort:
+4734.37
+posortowanie w 75%
+to jest wynik dla quicksort:
+5084.98
+to jest wynik dla mergesort:
+13521.4
+to jest wynik dla introsort:
+4151.84
+posortowanie w 95%
+to jest wynik dla quicksort:
+4412.12
+to jest wynik dla mergesort:
+13562.6
+to jest wynik dla introsort:
+3632.96
+posortowanie w 99%
+to jest wynik dla quicksort:
+4302.94
+to jest wynik dla mergesort:
+13370.1
+to jest wynik dla introsort:
+3183.65
+posortowanie w 99.7%
+to jest wynik dla quicksort:
+4168.08
+to jest wynik dla mergesort:
+13184.8
+to jest wynik dla introsort:
+5020.77
+posortowanie w 100%
+to jest wynik dla quicksort:
+4226.2
+to jest wynik dla mergesort:
+13441.4
+to jest wynik dla introsort:
+3578.17
+czasy dla sortowania 100 tablic o rozmiarze: 1000000
+posortowanie w 0%
+to jest wynik dla quicksort:
+13014
+to jest wynik dla mergesort:
+33565
+to jest wynik dla introsort:
+10941
+posortowanie w 25%
+to jest wynik dla quicksort:
+12463.4
+to jest wynik dla mergesort:
+31288.2
+to jest wynik dla introsort:
+10803.4
+posortowanie w 50%
+to jest wynik dla quicksort:
+12244.1
+to jest wynik dla mergesort:
+29709.3
+to jest wynik dla introsort:
+9946.55
+posortowanie w 75%
+to jest wynik dla quicksort:
+10660.3
+to jest wynik dla mergesort:
+27715.7
+to jest wynik dla introsort:
+8734.43
+posortowanie w 95%
+to jest wynik dla quicksort:
+9352.95
+to jest wynik dla mergesort:
+27781.7
+to jest wynik dla introsort:
+7522.73
+posortowanie w 99%
+to jest wynik dla quicksort:
+8872.19
+to jest wynik dla mergesort:
+28103.1
+to jest wynik dla introsort:
+6922.24
+posortowanie w 99.7%
+to jest wynik dla quicksort:
+8714.63
+to jest wynik dla mergesort:
+27748.2
+to jest wynik dla introsort:
+6575.05
+posortowanie w 100%
+to jest wynik dla quicksort:
+9500.47
+to jest wynik dla mergesort:
+27652.3
+to jest wynik dla introsort:
+7503.83
